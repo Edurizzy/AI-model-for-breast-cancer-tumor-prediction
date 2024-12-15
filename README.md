@@ -41,3 +41,5 @@ Libraries:
 -pandas: For data manipulation and analysis.
 
 -scikit-learn (optional): For machine learning tasks in future projects.
+
+Please note that the project is in Brazilian Portuguese as it is my native language, please be empathetic to an English learner.
