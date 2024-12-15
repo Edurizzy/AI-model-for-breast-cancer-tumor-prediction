@@ -28,13 +28,16 @@ Dataset Link: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-c
 
 --Conversion of categorical variables: The Diagnosis column is mapped to binary values ​​(M = 1, B = 0).
 
-Separate dependent and independent variables: X: Represents the features used for prediction. Y: Represents the classification target.
+--Separate dependent and independent variables: X: Represents the features used for prediction. Y: Represents the classification target.
 
 --Visualization and Verification: Print the dimensions of the variables to ensure the correct organization of the data.
 
 ---Technologies and Tools--
 
 Python 3.9+
+
 Libraries:
+
 -pandas: For data manipulation and analysis.
+
 -scikit-learn (optional): For machine learning tasks in future projects.
