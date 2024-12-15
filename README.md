@@ -7,6 +7,7 @@ Dataset Link: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-c
 --Implemented Functionalities--
 ==Loading Data:
 --Using pandas to load data directly from the provided URL.
+
 --Renaming of columns to descriptive names and translated into Portuguese.
 
 ==Initial Exploration:
